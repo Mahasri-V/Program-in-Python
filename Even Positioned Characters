@@ -1,0 +1,10 @@
+n=input()
+l=len(n)
+s=0 
+for i in range(l+1):
+    if(i%2==0):
+        print(n[i],end="")  
+Input 
+Mahasri
+output 
+Mhsi
