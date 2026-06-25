@@ -1,0 +1,12 @@
+a=eval(input())
+print("is the list is empty ",len(a)==0)
+print("Third Element: ",a[2])
+print("lenght of listt: ",len(a))
+input
+1,2,3,4,5,6
+
+output
+
+is the list is empty False
+Third Element: 3
+lenght of list: 6 
